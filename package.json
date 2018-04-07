@@ -1,0 +1,19 @@
+{
+  "name": "xpire105321521",
+  "version": "1.0.0",
+  "description": "Xpire tries sip server which is based on javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpire105321521/sip-server.git"
+  },
+  "author": "Xpire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xpire105321521/sip-server/issues"
+  },
+  "homepage": "https://github.com/xpire105321521/sip-server#readme"
+}
